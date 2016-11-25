@@ -1,0 +1,15 @@
+Hadoop 分布式系统基础框架
+
+Hadoop 实现了一个分布式文件系统 HDFS 它的核心 1> HDFS 提供存储 2> MapReduce 提供计算
+
+MyBatis 是支持普通SQL查询，存储过程和高级映射的优秀持久层框架。几乎消除了所有JDBC代码和参数的手工设置。以及结果集的检索。使用简单的XML或注解用于配置和原始映射。
+
+1> 加载配置 ①通过配置文件 ②Java中的注解
+2> SQL解析
+3> SQL执行
+4> 结果集映射：可以将结果集转换成HashMap，JavaBean或基本数据类型
+	xml: <insert></insert> <delete></delete> id parameterType
+
+	@select
+
+AOP 应用对象只需要做他们该做的也就是只完成自己的业务逻辑，不负责日志，事务处理等。
