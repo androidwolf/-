@@ -1,0 +1,4 @@
+CDN Content Delivery Network 内容分发网络
+jfm 或者直接使用java的io类。
+获取视屏流（视屏数据）然后发送的话，到网络中都是二进制字节流
+java可以直接处理从socket（tcp）中接到的二进制流的。
